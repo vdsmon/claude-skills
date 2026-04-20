@@ -1,0 +1,16 @@
+{
+  "name": "vdsmon-skills",
+  "owner": {
+    "name": "Victor De Simone",
+    "email": "victorsmoliveira@gmail.com",
+    "url": "https://github.com/vdsmon"
+  },
+  "plugins": [
+    {
+      "name": "vdsmon-skills",
+      "source": "./",
+      "description": "Personal Claude Code skills by vdsmon.",
+      "version": "0.1.0"
+    }
+  ]
+}
