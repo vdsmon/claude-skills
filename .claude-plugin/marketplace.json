@@ -1,5 +1,8 @@
 {
   "name": "vdsmon-skills",
+  "metadata": {
+    "description": "Personal Claude Code skills marketplace by vdsmon. Ships skill-polish and future skills."
+  },
   "owner": {
     "name": "Victor De Simone",
     "email": "victorsmoliveira@gmail.com",
